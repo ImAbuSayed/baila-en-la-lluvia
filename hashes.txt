@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Baila en la Lluvia
+
+This log tracks the cryptographic history and versioning for the song **Baila en la Lluvia** (baila-en-la-lluvia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-17T15:36:16.851400 | `v1` | `86bf2f31301680f7ed13cd259c7f08e24a9ed5fa21072e752b16c4a1fdfa66c3` | `b8fb9cdcdd1f17123edcc0d91dff9097da0be5dcdf802c97574cd7ed40f59e3e` | `2026-05-17_baila-en-la-lluvia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
