@@ -15,7 +15,7 @@
 | **Written On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/baila-en-la-lluvia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Baila en la Lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baila-en-la-lluvia/) |
+| **Get License** | [Get a Licensing Quote for Baila en la Lluvia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/baila-en-la-lluvia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la luna sabe bien lo que tú quieres
+> Ese piquete fino a mí me tiene mal
+> Si tú me miras, juro que me desvaneces
+> Baila en la lluvia, que la noche es de cristal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
